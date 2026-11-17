@@ -4,7 +4,12 @@
 **Outils utilisés :** Microsoft Excel (Tableaux Croisés Dynamiques, Pivot Charts, Slicers, Timeline, `GETPIVOTDATA`)  
 **Dataset :** Call Centre Queue Simulation (51 708 appels simulés sur 1 an)[cite: 5]
 
-![Aperçu du Dashboard](./Capture d'écran 2026-11-17 141219.png)
+![Aperçu du Dashboard]<img width="1111" height="492" alt="Capture d&#39;écran 2026-11-17 141219" src="https://github.com/user-attachments/assets/db31f280-85f7-4888-ad72-087f6b94d64b" />
+
+
+<img width="1048" height="717" alt="Capture d&#39;écran 2026-11-17 142743" src="https://github.com/user-attachments/assets/774aebf8-1002-421d-acea-6db66969d8a6" />
+
+
 
 ---
 
