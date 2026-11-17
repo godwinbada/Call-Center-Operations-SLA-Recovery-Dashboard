@@ -1,6 +1,4 @@
-# Call-Center-Operations-SLA-Recovery-Dashboard
-
-# 📊 Call Center Operations & SLA Recovery Dashboard (Excel)
+📊 Call Center Operations & SLA Recovery Dashboard (Excel)
 
 **Auteur :** Kodjo Godwin BADA  
 **Outils utilisés :** Microsoft Excel (Tableaux Croisés Dynamiques, Pivot Charts, Slicers, Timeline, `GETPIVOTDATA`)  
